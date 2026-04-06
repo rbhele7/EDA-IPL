@@ -13,11 +13,8 @@ There are 10 issues (`#E1` through `#E10`) split into exactly three difficulty z
 We are using the IPL Dataset containing `matches.csv` and `deliveries.csv`. The dataset is included right here in the `data/` folder of this repository so you can load it instantly without downloading anything.
 
 ## Crucial Rule For Passing
-> **Pull Requests MUST be free of notebook files!**
-
-We want to keep this repository clean and avoid messy Jupyter Notebook (`.ipynb`) merge conflicts. When you solve an issue, **DO NOT upload your notebook** back to this repository. 
-
-Instead, open a Pull Request and put everything directly into the **PR Description**:
+Create a notebook under the notebooks folder and start solving the issues
+Open a Pull Request and put everything directly into the **PR Description**:
 1. A **screenshot** of your final generated visualisation.
 2. A copy/paste of the **core logic code block** you used to reach the result.
 3. A readable **markdown summary** synthesizing your findings and interpreting the plot.

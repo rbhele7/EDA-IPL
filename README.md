@@ -1,7 +1,7 @@
 # EDA-IPL Repository
 
 > [!NOTE]
-> You do not have to comment for an issue to be assigned; you can directly open a PR.
+> You do not have to comment for an issue to be assigned; you can directly open a PR and each issue accepts multiple PRs
 
 Welcome to the IPL Exploratory Data Analysis onboarding project! This repository contains a curated set of challenges designed to teach the fundamentals of data aggregation, pandas manipulation, and data visualization.
 
